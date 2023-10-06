@@ -1,0 +1,8 @@
+1st test
+
+The projects in the course: 
+1.- Feedback App
+2.- Github Finder
+3.- House Marketplace Project
+
+My idea, the pokedex
