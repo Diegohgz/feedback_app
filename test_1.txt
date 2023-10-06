@@ -6,3 +6,5 @@ The projects in the course:
 3.- House Marketplace Project
 
 My idea, the pokedex
+
+Testing changes to merge branches.
